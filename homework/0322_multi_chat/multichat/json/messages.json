@@ -1,0 +1,47 @@
+[
+    {
+        "senderID": "cla1",
+        "type": "message",
+        "message": "this is test message from cla1"
+    },
+    {
+        "senderID": "cla5",
+        "type": "message",
+        "message": "this is test message from cla5"
+    },
+    {
+        "senderID": "cla1",
+        "type": "message",
+        "message": "this is from cla2"
+    },
+    {
+        "senderID": "cla6",
+        "type": "message",
+        "message": "this is from cla6"
+    },
+    {
+        "senderID": "Server",
+        "type": "Server Notice",
+        "message": "this is from server_test"
+    },
+    {
+        "senderID": "cla7",
+        "type": "message",
+        "message": "this is cla7"
+    },
+    {
+        "senderID": "cla8",
+        "type": "message",
+        "message": "this is cla8"
+    },
+    {
+        "senderID": "cla9",
+        "type": "message",
+        "message": "this is cla9"
+    },
+    {
+        "senderID": "Server",
+        "type": "Server Notice",
+        "message": "this is server"
+    }
+]

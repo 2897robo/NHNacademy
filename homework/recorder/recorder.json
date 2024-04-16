@@ -1,0 +1,30 @@
+{
+    "record": [
+        {
+            "win_count": 250,
+            "game_count": 500
+        },
+        {
+            "win_count": 50,
+            "game_count": 100
+        },
+        {
+            "win_count": 800,
+            "game_count": 1000
+        }
+    ],
+    "user": [
+        {
+            "nickname": "power",
+            "id": 1010
+        },
+        {
+            "nickname": "giuk",
+            "id": 2897
+        },
+        {
+            "nickname": "xtra",
+            "id": 7080
+        }
+    ]
+}

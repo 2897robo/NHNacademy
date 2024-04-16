@@ -1,0 +1,11 @@
+= Java의 역사
+
+Java는 오픈소스와 상용 버전이 섞여 있으며 다양한 라이선스와 배포 형태를 가지고 있습니다. 이 장에서는 Java의 라이선스와 다양한 JVM 공급자를 이해하기 위해 Java의 역사에 대해 알아봅니다.
+
+== Table of Contents
+
+1.	Java의 역사
+2.	JVM 언어
+
+link:./10_jvm_language.adoc[이전: JVM 언어] +
+link:./12_history_java_2.adoc[다음: Java의 역사]

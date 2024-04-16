@@ -1,0 +1,72 @@
+= Lab 1-2: 개발 환경 설치
+
+여기에서는 컴퓨터에 Java 개발 환경으로 Microsoft의 Visual Studio Code를 설치합니다. 아래 절차에 따릅니다.
+
+== Windows에서 Visual Studio Code 설치
+
+1. 명령 프롬프트에서 아래 명령을 실행하여 설치 가능한 Visual Studio Code를 확인합니다.
++
+----
+> winget search Visual Studio Code
+이름                                      장치 ID                                 버전   원본
+------------------------------------------------------------------------------------------------
+Microsoft Visual Studio Code Insiders CLI Microsoft.VisualStudioCode.Insiders.CLI 1.86.0 winget
+Microsoft Visual Studio Code Insiders     Microsoft.VisualStudioCode.Insiders     1.86.0 winget
+Microsoft Visual Studio Code CLI          Microsoft.VisualStudioCode.CLI          1.85.2 winget
+Microsoft Visual Studio Code              Microsoft.VisualStudioCode              1.85.2 winget
+----
++
+2. 아래 명령을 실행하여 Visual Studio Code를 설치합니다.
++
+----
+> winget install -e Microsoft.VisialStudioCode
+----
+
+
+== macOS에서 Visual Studio Code 설치
+
+1. 아래 명령을 실행하여 brew에서 설치 가능한 Visual Studio Code를 확인합니다.
++
+----
+% brew search visual-studio-code
+----
++
+2. 아래 명령을 실행하여 Visual Studio Code를 설치합니다.
++
+----
+% brew install --cask visual-studio-code
+==> Casks
+caskroom/cask/visual-studio-code           visual-studio                              visual-studio-code
+----
++
+3. 아래 명령을 실행하여 설치된 Vislau Studio Code를 확인합니다.
++
+----
+% brew list
+----
+
+=== macOS에 설치된 Visual Studio Code에서 path 설정
+
+이 연습에서는 macOS에 설치된 Visual Studio Code의 원활항 사용을 위해 path를 설정합니다. Windows와 Linux 운영체제에서는 Visual Studio Code를 설지하면 path가 설정되므로, 작업이 필요하지 않습니다.
+
+> 이 작업은 macOS 운영체제에서만 실행합니다.
+
+1. Visual Studio Code를 실행합니다.
+2. Ctrl + Shift + P 키를 눌러 명령 팔레트를 열고, path로 검색한 후 아래 명령을 실행합니다.
++
+----
+Shell Command: Install ‘code’ command in PATH
+(한글) 셸 명령: PATH에 'code' 명령 설치
+----
++
+image:./images/image12.png[]
++
+3. 지문 인식 또는 패스워드를 입력하여 인증을 제공합니다.
+4. 터미널을 열고, 아래 명령을 실행하여 path를 확인합니다.
++
+----
+$ code -v
+1.85.2
+8b3775030ed1a69b13e4f4c628c612102e30a681
+arm64
+----
