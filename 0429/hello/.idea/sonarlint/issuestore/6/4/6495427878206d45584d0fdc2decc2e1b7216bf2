@@ -1,4 +1,12 @@
 
+†
+java:S1989"dHandle the following exceptions that could be thrown by "readCookie": ServletException, IOException.(çö‘ùÿÿÿÿ8æ™Çò1
+‚
+java:S1989"eHandle the following exceptions that could be thrown by "writeCookie": ServletException, IOException.(…Âª±8æ™Çò1
+€
+java:S1989"^Handle the following exceptions that could be thrown by "show": ServletException, IOException.(±Ñşˆıÿÿÿÿ8æ™Çò1
+”
+java:S1130"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ûéí8‘æ™Çò1
 m
 java:S1172"*Remove this unused method parameter "req".(ûéí8ÇÿŒÅò1J$9b3c0ce0-ac5e-4265-9a8f-cb574c9ae352
 ‰

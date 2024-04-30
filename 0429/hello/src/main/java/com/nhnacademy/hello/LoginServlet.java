@@ -69,5 +69,4 @@ public class LoginServlet extends HttpServlet {
             log.error("id:{}",id);
         }
     }
-
 }
