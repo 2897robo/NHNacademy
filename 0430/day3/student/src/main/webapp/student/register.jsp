@@ -24,7 +24,22 @@
             <td><input type="text" name="id" value="${student.id}" required /></td>
         </tr>
         <!-- todo input 구현 -->
+        <tr>
+            <th><P>이름</P></th>
+            <td><input type="text" name="name"></td>
+        </tr>
 
+        <tr>
+            <th><P>성별</P></th>
+            <td>
+                <input type="radio" name="gender" value="M">남
+                <input type="radio" name="gender" value="F">여
+            </td>
+        </tr>
+
+        <tr>
+            <th><P>나이</P></th>
+            <td><input type="text" name="age"></td>
         </tr>
         </tbody>
     </table>

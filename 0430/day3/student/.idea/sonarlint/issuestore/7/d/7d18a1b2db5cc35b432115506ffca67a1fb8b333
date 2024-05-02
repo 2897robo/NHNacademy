@@ -1,0 +1,21 @@
+
+g	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ó¼ø½ó1
+g	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ô¼ø½ó1
+g	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ô¼ø½ó1
+‚
+java:S1488u"`Immediately return this expression instead of assigning it to the temporary variable "students".(”ê©Ùüÿÿÿÿ8Õ¼ø½ó1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ö²ÃÆ8Ü¼ø½ó1
+T
+java:S1135"2Complete the task associated to this TODO comment.(¡¥Áüÿÿÿÿ8ã¼ø½ó1
+\	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ä¼ø½ó1
+p
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8å¼ø½ó1
+T
+java:S1135!"2Complete the task associated to this TODO comment.(íáÍ²øÿÿÿÿ8å¼ø½ó1
+a
+java:S21471"DCombine this catch with the one at line 47, which has the same body.(ï­£Ä8æ¼ø½ó1
+U
+java:S11179"8Rename "file" which hides the field declared at line 18.(Òİ¬«8è¼ø½ó1
+v
+java:S1135ƒ"2Complete the task associated to this TODO comment.(×Ô—ó8§×ì½ó1J$b4255780-bae5-4fcf-8687-3ada7839e71a

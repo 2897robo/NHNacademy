@@ -22,6 +22,15 @@
     </thead>
     <tbody>
     <!--todo list 구현하기 c:foreach -->
+        <c:forEach var="item" items="${studentList}">
+            <tr>
+                <td>${item.getId()}</td>
+                <td style="text-align: center">${item.getName()}</td>
+                <td style="text-align: center">${item.getGender()}</td>
+                <td style="text-align: center">${item.getAge()}</td>
+                <td style="text-align: center"><a href="/student/view.do?id=${item.getId()}">cmd</a></td>
+            </tr>
+        </c:forEach>
     </tbody>
 </table>
 </body>
