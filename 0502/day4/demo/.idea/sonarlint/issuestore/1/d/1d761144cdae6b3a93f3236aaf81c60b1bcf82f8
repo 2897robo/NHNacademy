@@ -1,0 +1,6 @@
+
+w
+java:S3740	"/Provide the parametrized type for this generic.(¶×øÿÿÿÿ8í“Î¿ó1J$9896fa45-dbb2-4777-8a0f-232eaaa561a6
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(àÃ•¡ÿÿÿÿÿ8¼ëÎ¿ó1
+r	java:S106"+Replace this use of System.out by a logger.(¤¸¤ûÿÿÿÿ8õ“Î¿ó1J$99857047-019e-4c38-9072-d0e7bc5e4f06
