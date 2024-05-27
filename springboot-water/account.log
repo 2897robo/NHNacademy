@@ -1,0 +1,4 @@
+2024-05-17 09:41:31,440 INFO [main] c.e.d.a.a.AccountAop [AccountAop.java:24] login([1, 1])
+2024-05-17 09:42:35,838 INFO [main] c.e.d.a.a.AccountAop [AccountAop.java:24] logout([])
+2024-05-17 09:44:38,193 INFO [main] c.e.d.a.a.AccountAop [AccountAop.java:24] login([2, 2])
+2024-05-17 09:44:42,204 INFO [main] c.e.d.a.a.AccountAop [AccountAop.java:24] login([1, 1])

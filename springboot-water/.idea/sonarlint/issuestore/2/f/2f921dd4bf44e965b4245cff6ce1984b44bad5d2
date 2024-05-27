@@ -1,0 +1,7 @@
+
+”
+java:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ8ªÂÓ¬ø1J$5e3d433c-9eed-4e1e-b335-fc4342b79cde
+r
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8‰‘Ó¬ø1J$d1bbcb89-4fb0-4374-9682-67bf474af377
+r
+java:S2093:"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Œ‘Ó¬ø1J$d51316ba-cc94-424d-959a-6a784b8daa98

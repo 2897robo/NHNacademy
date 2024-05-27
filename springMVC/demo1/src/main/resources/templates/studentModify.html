@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Modify Student</title>
+</head>
+<body>
+<form th:action="@{/student/modify}" method="post">
+    <input type="hidden" th:field="*{id}" />
+    <label>ID: </label>
+    <input type="text" th:field="*{studentId}" readonly="readonly" /><br>
+    <label>PWD: </label>
+    <input type="password" th:field="*{password}" /><br>
+    <label>Name: </label>
+    <input type="text" th:field="*{name}" /><br>
+    <label>Email: </label>
+    <input type="text" th:field="*{email}" /><br>
+    <label>Score: </label>
+    <input type="text" th:field="*{score}" /><br>
+    <label>Evaluation: </label>
+    <input type="text" th:field="*{evaluation}" /><br>
+    <br>
+    <button type="submit">Submit</button>
+</form>
+</body>
+</html>

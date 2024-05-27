@@ -1,0 +1,19 @@
+
+…
+java:S11925"IDefine a constant instead of duplicating this literal "student1" 5 times.(è…¨¿J$fc45f8e2-60a9-4e46-a07b-25cf26fda88d
+
+java:S1104"]Make studentRepository a static final constant or non-public and provide accessors if needed.( ¦€ÌûÿÿÿÿJ$577c677d-decd-43aa-88fc-b7fb6831002c
+x
+java:S1444"7Make this "public static studentRepository" field final( ¦€ÌûÿÿÿÿJ$33a11361-87aa-4f5d-b08f-80ae3f23fa6e
+Y
+java:S2119"Save and re-use this "Random".(¼İÅfJ$8d8b5ac6-a149-4c6c-8893-f13ec1fa1789
+	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÒ“úÿÿÿÿJ$e29c26fb-f7a5-4ba8-9bde-a2f96edc8760
+{
+java:S1854N":Remove this useless assignment to local variable "result".(Ì¼«¢ÿÿÿÿÿJ$397618ae-58ad-4483-b175-59ba10d5e4ba
+l
+java:S1481N"+Remove this unused "result" local variable.(Ì¼«¢ÿÿÿÿÿJ$ed87e13d-fe72-46ac-b255-1962afeaf87c
+w	java:S125O"<This block of commented-out lines of code should be removed.(¢“ÏJ$9225a62d-9e44-4a3e-8ba1-3ba23e4c0c01
+{
+java:S1854b":Remove this useless assignment to local variable "result".(ŞÂ¼ïùÿÿÿÿJ$d3f8d093-57cc-47e1-ad32-86a0f33917d1
+l
+java:S1481b"+Remove this unused "result" local variable.(ŞÂ¼ïùÿÿÿÿJ$b48d3a7e-ca14-4515-80d6-8db27864ae27

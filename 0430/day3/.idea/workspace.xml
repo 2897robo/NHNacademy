@@ -4,63 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db6cd502-b1d2-43c1-aeb6-1e3ceac9b648" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/0430.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/ArrayListTestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/ArrayListTestProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/Autowired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/ControllerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/DiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/ErrorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/Example01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/Example03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/Example04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/FrontServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/InjectUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/JsonStudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/MapStudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/PerformanceTestable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/RequestDispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/RequestMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/StudentDeleteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/StudentListController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/StudentRegisterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/StudentRegisterFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/StudentUpdateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/StudentUpdateFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/StudentViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/WebAppInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0502/day4/demo/src/main/java/com/nhnacademy/demo/WebApplicationListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/issuestore/2/1/21aaf14a348fd1c8e69ef703cbe7f06554512b35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/issuestore/2/2/22d46389d9ae41bfb9ee6af298893aae09185849" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/issuestore/a/2/a275aee8ae92f65f455e9ed022962e5f0aabac05" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/issuestore/c/0/c0ef561f1ec92433f598e9684c59b2403dd8b923" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/issuestore/c/c/cc3eb8abe15033241732ee26b17702c4623cfbd9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/issuestore/d/f/dfb56e0ec4e755c71f7c416e6850153daa993751" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/student/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/securityhotspotstore/2/1/21aaf14a348fd1c8e69ef703cbe7f06554512b35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/securityhotspotstore/2/2/22d46389d9ae41bfb9ee6af298893aae09185849" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/securityhotspotstore/a/2/a275aee8ae92f65f455e9ed022962e5f0aabac05" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/securityhotspotstore/c/0/c0ef561f1ec92433f598e9684c59b2403dd8b923" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/securityhotspotstore/c/c/cc3eb8abe15033241732ee26b17702c4623cfbd9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/securityhotspotstore/d/f/dfb56e0ec4e755c71f7c416e6850153daa993751" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/student/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-    </list>
+    <list default="true" id="db6cd502-b1d2-43c1-aeb6-1e3ceac9b648" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,20 +41,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/giuk/Desktop/ㅋ/0430/day3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/giuk/Desktop/ㅋ/0430/day3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -129,6 +73,7 @@
       <updated>1714442065895</updated>
       <workItem from="1714442067617" duration="22000" />
       <workItem from="1714697842944" duration="610000" />
+      <workItem from="1715232275276" duration="4000" />
     </task>
     <servers />
   </component>

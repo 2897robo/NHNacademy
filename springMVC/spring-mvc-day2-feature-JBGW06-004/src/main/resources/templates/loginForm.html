@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LoginForm</title>
+</head>
+<body>
+<h1>Login</h1>
+<form action="/login" method="post">
+    ID: <input type="text" name="id" required/><br/>
+    PWD: <input type="password" name="pwd" required/><br/>
+    <br/>
+    [test ID : giuk / PWD : 2897]<br/>
+    [test ID : hoho / PWD : 0000]<br/>
+    [test ID : cheol / PWD : 1234]<br/>
+    <input type="submit" value="Login"/>
+</form>
+<br>
+<a href="/student/register">Register</a>
+<br>
+<div th:if="${error}">
+    <p th:text="${error}" style="color: red;"></p>
+</div>
+</body>
+</html>
