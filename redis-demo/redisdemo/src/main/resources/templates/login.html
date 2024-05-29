@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+</head>
+<body>
+<form method="post" action="/login">
+    <label for="id">ID:</label>
+    <input type="text" id="id" name="id" /><br />
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" /><br />
+    <input type="submit" />
+</form>
+<div th:if="${error}" th:text="${error}"></div>
+</body>
+</html>

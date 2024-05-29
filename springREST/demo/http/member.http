@@ -1,0 +1,12 @@
+### GET request to example server
+GET localhost:8080/member
+
+###
+POST localhost:8080/members
+Content-Type: application/json
+
+{
+  "name" : "신건영",
+  "age" : 15,
+  "role" : "admin"
+}
