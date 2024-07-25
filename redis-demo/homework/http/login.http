@@ -1,0 +1,45 @@
+### 멤버조회
+GET localhost:8080/members/admin1234
+
+### 멤버 리스트 조회
+GET localhost:8080/members
+
+#### 1. 멤버 추가 (ADMIN)
+POST localhost:8080/members
+Content-Type: application/json
+
+{
+  "id": "admin1234",
+  "name": "admin1234",
+  "password": "admin1234",
+  "age": 1234,
+  "role": "ADMIN"
+}
+
+### 2. 멤버 추가 (MEMBER)
+POST localhost:8080/members
+Content-type: application/json
+
+{
+  "id" : "member1234",
+  "name" : "member1234",
+  "password" : "member1234",
+  "age" : 1234,
+  "role" : "MEMBER"
+}
+
+
+### 3. 멤버 추가 (GOOGLE)
+POST localhost:8080/members
+Content-Type: application/json
+
+{
+  "id" : "google1234",
+  "name" : "google1234",
+  "password" : "google1234",
+  "age" : 1234,
+  "role" : "GOOGLE"
+}
+
+### 4. 멤버 삭제
+DELETE localhost:8080/members/admin1234

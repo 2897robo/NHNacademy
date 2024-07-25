@@ -1,0 +1,12 @@
+
+j
+java:S1192-"ODefine a constant instead of duplicating this literal "account/signup" 3 times.(É™ğÿùÿÿÿÿ
+m
+java:S11929"RDefine a constant instead of duplicating this literal "userCreateRequest" 3 times.(ïÏ…“ıÿÿÿÿ
+c
+java:S1192+"HDefine a constant instead of duplicating this literal "/signup" 4 times.(‡¤¤íıÿÿÿÿ
+ä
+java:S1598"ÏThis file "AccountControllerTest.java" should be located in "com/nhnacademy/minidooraydgateway/controller" directory, not in "/Users/giuk/Desktop/ã…‹/minidooray/test code/Gateway TestCode - task/controller".(âğ+
+h	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛŸÿûÿÿÿÿ
+h	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÅ÷÷úÿÿÿÿ
+h	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ñ«¯şÿÿÿÿ

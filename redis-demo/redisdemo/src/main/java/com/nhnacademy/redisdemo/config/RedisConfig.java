@@ -12,6 +12,8 @@ import org.springframework.session.data.redis.config.annotation.web.http.EnableR
 @EnableRedisHttpSession
 @Configuration
 public class RedisConfig {
+    //# 레디스 원격접속
+    // redis-cli -h 133.186.241.167 -p 6379 -a '*N2vya7H@muDTwdNMR!' -n {본인 번호}
     @Bean
     public RedisTemplate<String, Object> redisTemplate(RedisConnectionFactory redisConnectionFactory) {
         RedisTemplate<String, Object> sessionRedisTemplate = new RedisTemplate<>();
